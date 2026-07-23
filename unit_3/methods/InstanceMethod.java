@@ -5,6 +5,6 @@ public class InstanceMethod {
 
     public static void main(String[] args) {
         InstanceMethod d = new InstanceMethod();
-        d.show(); // Instance Method
+        d.show();// Instance Method
     }
 }
